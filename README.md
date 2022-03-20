@@ -4,7 +4,7 @@ I evaluate my yolact trained model with custom dataset, and observe performance 
 
 ## Output
 
-1- YOLACT <br/>
+1- Colab <br/>
 
 | Trial                                | fps   | time |
 | ------------------------------------ | ----- | ---- |
