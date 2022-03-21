@@ -18,3 +18,7 @@ I evaluate my yolact trained model with custom dataset, and observe performance 
 | ------------------------------------ | --- | ---- |
 | multi-frame:2 , backbone: darknet-50 | 8.7 | XX   |
 | multi-frame:4 , backbone: darknet-50 | 9.3 | XX   |
+
+```
+Observation: relation between multi-frame parameter and fps not linear, with high multi frame  fps increase until bottle-neck occured and then fps decrease again to be in range 12 fps.
+```
